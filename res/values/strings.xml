@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NavIndoor Test</string>
+    <string name="navigate">Navigate to...</string>
+    <string name="guide">How to use</string>
+    <string name="settings">Settings</string>
+    <string name="exit">Exit</string>
+    <string name="app_credits">\u00A9 2012, Marco Franceschetti</string>
+    <string name="missing_feature">This feature is not available yet</string>
+    <string name="empty">No destinations available</string>
+    <string name="destination">Destination set</string>
+    <string name="read_code">Scan a QR code to get directions</string>
+    <string name="scan_canceled">Scan canceled</string>
+	<string name="follow_direction">Follow the given direction</string>
+	<string name="follow_instruction">Follow the given instruction</string>
+	<string name="destination_reached">Destination reached</string>
+    <string name="upstairs">Reach the next QR code</string>
+    <string name="no_direction">No directions: use another QR code</string>
+    <string name="close">Close</string>
+    <string name="zxing_credits"></string>
+    <string name="guide_title">Use NavIndoor in 3 steps</string>
+    <string name="step">Step</string>
+    <string name="step1">Tap on the \'Navigate to...\' button in the home screen and select your destination from the list that appears.</string>
+    <string name="step2">Tap on the \'Scan a QR code\' button and point your camera to the nearest QR code you can see.</string>
+    <string name="step3">Follow the instructions you are given till you reach another QR code.\nRepeat steps 2-3 till you reach your destination.</string>
+</resources>

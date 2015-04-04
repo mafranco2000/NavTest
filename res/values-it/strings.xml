@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NavIndoor Test</string>
+    <string name="navigate">Naviga verso...</string>
+    <string name="guide">Guida d\'uso</string>
+    <string name="settings">Impostazioni</string>
+    <string name="exit">Esci</string>
+    <string name="app_credits">\u00A9 2012, Marco Franceschetti</string>
+    <string name="missing_feature">Questa funzione non è ancora attiva</string>
+    <string name="empty">Nessuna destinazione</string>
+    <string name="destination">Destinazione scelta</string>
+    <string name="read_code">Premi il pulsante sottostante per leggere un codice QR</string>
+    <string name="scan_canceled">Lettura annullata</string>
+	<string name="follow_direction">Segui la direzione indicata</string>
+	<string name="follow_instruction">Segui le istruzioni fornite</string>
+	<string name="destination_reached">Destinazione raggiunta</string>
+	<string name="destination_reached_long">Hai raggiunto la destinazione</string>
+	<string name="hour1">Vai a ore 1</string>
+	<string name="hour2">Vai a ore 2</string>
+	<string name="hour3">Vai a ore 3</string>
+	<string name="hour4">Vai a ore 4</string>
+	<string name="hour5">Vai a ore 5</string>
+	<string name="hour6">Vai a ore 6</string>
+	<string name="hour7">Vai a ore 7</string>
+	<string name="hour8">Vai a ore 8</string>
+	<string name="hour9">Vai a ore 9</string>
+	<string name="hour10">Vai a ore 10</string>
+	<string name="hour11">Vai a ore 11</string>
+	<string name="hour12">Vai a ore 12</string>
+    <string name="upstairs">Sali le scale</string>
+    <string name="downstairs">Scendi le scale</string>
+    <string name="no_direction">Errore codice</string>
+    <string name="no_direction_long">Il codice QR inquadrato non contiene informazioni utili. Cerca un altro codice QR nelle vicinanze</string>
+    <string name="close">Chiudi</string>
+    <string name="zxing_credits"></string>
+    <string name="guide_title">Usa NavIndoor in 3 passi</string>
+    <string name="step">Passo</string>
+    <string name="step1">Premi il pulsante \'Naviga verso...\' nella schermata principale e seleziona la destinazione dalla lista che compare.</string>
+    <string name="step2">Premi il pulsante \'Leggi un codice QR\' e inquadra con la fotocamera il codice QR a te più vicino.</string>
+    <string name="step3">Segui le indicazioni fornite per raggiungere il codice QR successivo.\nRipeti i passi 2-3 fino alla destinazione.</string>
+</resources>
